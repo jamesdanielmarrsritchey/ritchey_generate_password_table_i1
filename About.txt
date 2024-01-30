@@ -1,0 +1,13 @@
+Name:Ritchey Generate Password Table
+Implementation:1
+Version:1
+Long Identifier:Ritchey Generate Password Table i1 v1
+Short Identifier:RGPTi1v1
+Description:Ritchey Generate Password Table is a webpage designed for offline usage, which generates a table that can be used to make deterministic passwords.
+History:
+ - Project started January 28, 2024.
+ - Version 1 completed January 29, 2024.
+Author:James Daniel Marrs Ritchey
+License:Ritchey Permissive License v16
+Notes:
+ - 
